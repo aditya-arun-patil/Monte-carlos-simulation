@@ -6,4 +6,4 @@ This code shows how the number of atoms of the initially kept unstable compound 
 
 
 
-If want to see a clear graph that shows what the decay equations show then put lambda_1 = 0.7, lamda_2 = 0.5 and N_O = 1000 
+If want to see a clear graph that shows what the decay equations show then put lambda_1 = 0.5, lamda_2 = 0.2 and N_O = 1000 
